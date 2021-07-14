@@ -61,14 +61,11 @@
         </args>
       </configuration>
     </plugin>
-  </plugins>
-
-        <plugins>
-            <plugin>
+    <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
+    </plugin>
+  </plugins>
+</build>
 
 </project>
